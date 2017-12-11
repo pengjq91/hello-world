@@ -1,4 +1,4 @@
-package corejava;
+﻿package corejava;
 /**
  * 1、写一个程序，输入是一个十进制整数，输出是它的二进制表示的字符串。函数原型是
 
@@ -25,6 +25,7 @@ package corejava;
  * @author Elan
  *
  */
+//这个是NumberSystem类
 public class NumberSystem {
 
 	public static void main(String[] args) {
